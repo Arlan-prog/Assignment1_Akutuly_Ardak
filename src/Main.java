@@ -5,7 +5,7 @@
 
             Student s1 = new Student("Хан Досаев", "1", "IT");
             Student s2 = new Student("Ермахан Токаев", "2", "Математика");
-            Student s3 = new Student("Айгерим Уталиева", "3", "Физика");
+            Student s3 = new Student("Айгерим Уталиева", "3", "Информатика");
             Student s4 = new Student("Данияр Жумабек", "4", "IT");
             Student s5 = new Student("Асель Абдрахман", "5", "Инженерия");
 
