@@ -33,14 +33,6 @@ public class Student {
         return credits;
     }
 
-    public void setGpa(double gpa) {
-        this.gpa = gpa;
-    }
-
-    public void setCredits(int credits) {
-        this.credits = credits;
-    }
-
     public void addCredits(int c) {
         credits = credits + c;
     }
